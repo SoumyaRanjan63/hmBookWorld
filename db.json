@@ -1,0 +1,109 @@
+{
+  "books": [
+    {
+      "id": "048ef",
+      "title": "dfgsdfg",
+      "author": {
+        "authorName": "dfgsdf"
+      },
+      "publisher": {
+        "publisherName": "fdgs"
+      },
+      "isbn": "1656",
+      "genre": {
+        "genreName": "sdfdg"
+      },
+      "publicationYear": "6512",
+      "quantity": "5"
+    },
+    {
+      "id": "048e2",
+      "title": "dfgsdfg",
+      "author": {
+        "authorName": "dfgsdf"
+      },
+      "publisher": {
+        "publisherName": "fdgs"
+      },
+      "isbn": "1656",
+      "genre": {
+        "genreName": "sdfdg"
+      },
+      "publicationYear": "6512",
+      "quantity": "5"
+    },
+    {
+      "id": "048et",
+      "title": "dfgsdfg",
+      "author": {
+        "authorName": "dfgsdf"
+      },
+      "publisher": {
+        "publisherName": "fdgs"
+      },
+      "isbn": "1656",
+      "genre": {
+        "genreName": "sdfdg"
+      },
+      "publicationYear": "6512",
+      "quantity": "5"
+    },
+    {
+      "id": "048e4",
+      "title": "dfgsdfg",
+      "author": {
+        "authorName": "dfgsdf"
+      },
+      "publisher": {
+        "publisherName": "fdgs"
+      },
+      "isbn": "1656",
+      "genre": {
+        "genreName": "sdfdg"
+      },
+      "publicationYear": "6512",
+      "quantity": "5"
+    },
+    {
+      "id": "048ef4",
+      "title": "dfgsdfg",
+      "author": {
+        "authorName": "dfgsdf"
+      },
+      "publisher": {
+        "publisherName": "fdgs"
+      },
+      "isbn": "1656",
+      "genre": {
+        "genreName": "sdfdg"
+      },
+      "publicationYear": "6512",
+      "quantity": "5"
+    },
+    {
+      "id": "86f6",
+      "title": "dfdasfa",
+      "author": {
+        "authorName": "dsafas"
+      },
+      "publisher": {
+        "publisherName": "sdfasf"
+      },
+      "isbn": "2323432",
+      "genre": {
+        "genreName": "dafdsa"
+      },
+      "publicationYear": "2013",
+      "quantity": "5"
+    }
+  ],
+  "members": [
+    {
+      "id": "2e90",
+      "name": "fdgakdmp",
+      "address": "sdfasfdas",
+      "phoneNumber": "16516516161",
+      "email": "Smoi@gmail.com"
+    }
+  ]
+}
